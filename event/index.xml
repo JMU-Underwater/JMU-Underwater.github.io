@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>近期或即将到来的赛事与活动 | 集美大学水下机器人实验室</title>
+    <link>https://jmu-underwater-robot-laboratory.github.io/event/</link>
+      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>近期或即将到来的赛事与活动</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 04 Jun 2022 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jmu-underwater-robot-laboratory.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>近期或即将到来的赛事与活动</title>
+      <link>https://jmu-underwater-robot-laboratory.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>2021 年中国机器人大赛</title>
+      <link>https://jmu-underwater-robot-laboratory.github.io/event/example/</link>
+      <pubDate>Sat, 04 Jun 2022 09:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater-robot-laboratory.github.io/event/example/</guid>
+      <description>&lt;p&gt;我们参赛队伍的获奖情况如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;水下作业项目
+&lt;ul&gt;
+&lt;li&gt;国家级一等奖 1 队&lt;/li&gt;
+&lt;li&gt;国家级二等奖 2 队&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;水下巡游项目
+&lt;ul&gt;
+&lt;li&gt;国家级一等奖 1 队&lt;/li&gt;
+&lt;li&gt;国家级二等奖 2 队&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

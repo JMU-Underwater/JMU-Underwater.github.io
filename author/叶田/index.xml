@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>叶田 | 集美大学水下机器人实验室</title>
+    <link>https://jmu-underwater-robot-laboratory.github.io/author/%E5%8F%B6%E7%94%B0/</link>
+      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/author/%E5%8F%B6%E7%94%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>叶田</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://jmu-underwater-robot-laboratory.github.io/author/%E5%8F%B6%E7%94%B0/avatar_hud3fc2e8243ac518d0b64e9939b7549c3_645729_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>叶田</title>
+      <link>https://jmu-underwater-robot-laboratory.github.io/author/%E5%8F%B6%E7%94%B0/</link>
+    </image>
+    
+  </channel>
+</rss>
