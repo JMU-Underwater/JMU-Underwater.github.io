@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>林永祥 | 集美大学水下机器人实验室</title>
+    <link>https://jmu-underwater-robot-laboratory.github.io/author/%E6%9E%97%E6%B0%B8%E7%A5%A5/</link>
+      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/author/%E6%9E%97%E6%B0%B8%E7%A5%A5/index.xml" rel="self" type="application/rss+xml" />
+    <description>林永祥</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://jmu-underwater-robot-laboratory.github.io/author/%E6%9E%97%E6%B0%B8%E7%A5%A5/avatar_hubef29ef9bca79c4e6c83f66d0f03c289_95993_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>林永祥</title>
+      <link>https://jmu-underwater-robot-laboratory.github.io/author/%E6%9E%97%E6%B0%B8%E7%A5%A5/</link>
+    </image>
+    
+  </channel>
+</rss>
