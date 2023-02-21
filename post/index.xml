@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>全部文章 | 集美大学水下机器人实验室</title>
-    <link>https://jmu-underwater-robot-laboratory.github.io/post/</link>
-      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>全部文章 | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/post/</link>
+      <atom:link href="https://jmu-underwater.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>全部文章</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jmu-underwater-robot-laboratory.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
       <title>全部文章</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/post/</link>
+      <link>https://jmu-underwater.github.io/post/</link>
     </image>
     
   </channel>

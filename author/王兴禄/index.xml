@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>王兴禄 | 集美大学水下机器人实验室</title>
-    <link>https://jmu-underwater-robot-laboratory.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/</link>
-      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/index.xml" rel="self" type="application/rss+xml" />
+    <title>王兴禄 | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/</link>
+      <atom:link href="https://jmu-underwater.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/index.xml" rel="self" type="application/rss+xml" />
     <description>王兴禄</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jmu-underwater-robot-laboratory.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/avatar_huef28b9b4a776e788ac352e7b567e1820_39439_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jmu-underwater.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/avatar_huef28b9b4a776e788ac352e7b567e1820_39439_270x270_fill_q75_lanczos_center.jpg</url>
       <title>王兴禄</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/</link>
+      <link>https://jmu-underwater.github.io/author/%E7%8E%8B%E5%85%B4%E7%A6%84/</link>
     </image>
     
   </channel>

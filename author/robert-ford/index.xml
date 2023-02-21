@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert Ford | 集美大学水下机器人实验室</title>
-    <link>https://jmu-underwater-robot-laboratory.github.io/author/robert-ford/</link>
-      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/author/robert-ford/index.xml" rel="self" type="application/rss+xml" />
+    <title>Robert Ford | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/author/robert-ford/</link>
+      <atom:link href="https://jmu-underwater.github.io/author/robert-ford/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Ford</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jmu-underwater-robot-laboratory.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
       <title>Robert Ford</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/author/robert-ford/</link>
+      <link>https://jmu-underwater.github.io/author/robert-ford/</link>
     </image>
     
     <item>
       <title>An example journal article</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/publication/journal-article/</link>
+      <link>https://jmu-underwater.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://jmu-underwater-robot-laboratory.github.io/publication/journal-article/</guid>
+      <guid>https://jmu-underwater.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -28,9 +28,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/publication/conference-paper/</link>
+      <link>https://jmu-underwater.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jmu-underwater-robot-laboratory.github.io/publication/conference-paper/</guid>
+      <guid>https://jmu-underwater.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

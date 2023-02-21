@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>傅晓锋 | 集美大学水下机器人实验室</title>
-    <link>https://jmu-underwater-robot-laboratory.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
-      <atom:link href="https://jmu-underwater-robot-laboratory.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/index.xml" rel="self" type="application/rss+xml" />
+    <title>傅晓锋 | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
+      <atom:link href="https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>傅晓锋</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jmu-underwater-robot-laboratory.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/avatar_hu03e0d2d4e3c288397cd2926b07a85def_176474_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/avatar_hu03e0d2d4e3c288397cd2926b07a85def_176474_270x270_fill_q75_lanczos_center.jpg</url>
       <title>傅晓锋</title>
-      <link>https://jmu-underwater-robot-laboratory.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
+      <link>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
     </image>
     
   </channel>
