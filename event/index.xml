@@ -5,12 +5,36 @@
     <link>https://jmu-underwater.github.io/event/</link>
       <atom:link href="https://jmu-underwater.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>赛事与活动</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 20 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 13 Oct 2023 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
       <title>赛事与活动</title>
       <link>https://jmu-underwater.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>同年再次参加 2023 中国机器人大赛并取得优异成绩</title>
+      <link>https://jmu-underwater.github.io/event/2023-%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/</link>
+      <pubDate>Fri, 13 Oct 2023 08:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/event/2023-%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/</guid>
+      <description>&lt;p&gt;我们参赛队伍的获奖情况如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;水下作业项目
+&lt;ul&gt;
+&lt;li&gt;国家级一等奖 1 队&lt;/li&gt;
+&lt;li&gt;国家级三等奖 1 队&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;水下巡游项目
+&lt;ul&gt;
+&lt;li&gt;国家级一等奖 1 队&lt;/li&gt;
+&lt;li&gt;国家级二等奖 1 队&lt;/li&gt;
+&lt;li&gt;国家级三等奖 1 队&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>同年再次参加国际先进机器人及仿真技术大赛</title>
@@ -76,7 +100,7 @@
     </item>
     
     <item>
-      <title>2022 年中国机器人大赛夺下四个奖项</title>
+      <title>线上参加 2022 中国机器人大赛并夺下四个奖项</title>
       <link>https://jmu-underwater.github.io/event/2022-%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/</link>
       <pubDate>Sat, 13 May 2023 09:00:00 +0000</pubDate>
       <guid>https://jmu-underwater.github.io/event/2022-%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/</guid>
@@ -107,7 +131,7 @@
     </item>
     
     <item>
-      <title>疫情以来首次参加水下机器人线下赛，荣获 2 金 4 银 5 铜</title>
+      <title>疫情以来首次参加水下机器人类别线下赛，荣获 2 金 4 银 5 铜</title>
       <link>https://jmu-underwater.github.io/event/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%9B%BD%E9%99%85%E5%85%88%E8%BF%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BB%BF%E7%9C%9F%E6%8A%80%E6%9C%AF%E5%A4%A7%E8%B5%9B/</link>
       <pubDate>Sat, 25 Mar 2023 09:00:00 +0000</pubDate>
       <guid>https://jmu-underwater.github.io/event/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%9B%BD%E9%99%85%E5%85%88%E8%BF%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BB%BF%E7%9C%9F%E6%8A%80%E6%9C%AF%E5%A4%A7%E8%B5%9B/</guid>

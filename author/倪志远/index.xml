@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>倪志远</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/avatar_hue6d9a658f6dcf6f39084307b9a6b17d0_131417_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/avatar_hu03078b65742051b0b7319c279c0cebfd_1999607_270x270_fill_q75_lanczos_center.jpg</url>
       <title>倪志远</title>
       <link>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/</link>
     </image>
+    
+    <item>
+      <title>倪志远</title>
+      <link>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E5%80%AA%E5%BF%97%E8%BF%9C/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

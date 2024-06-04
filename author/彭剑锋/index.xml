@@ -2,15 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>彭剑锋 | 集美大学水下智能创新实验室</title>
-    <link>https://jmu-underwater.github.io/author/%E5%BD%AD%E5%89%91%E9%94%8B/</link>
-      <atom:link href="https://jmu-underwater.github.io/author/%E5%BD%AD%E5%89%91%E9%94%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/</link>
+      <atom:link href="http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>彭剑锋</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://jmu-underwater.github.io/author/%E5%BD%AD%E5%89%91%E9%94%8B/avatar_hua93c86dee447db185d3e678381b10ece_424123_270x270_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/avatar_hua93c86dee447db185d3e678381b10ece_424123_270x270_fill_lanczos_center_3.png</url>
       <title>彭剑锋</title>
-      <link>https://jmu-underwater.github.io/author/%E5%BD%AD%E5%89%91%E9%94%8B/</link>
+      <link>http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/</link>
     </image>
+    
+    <item>
+      <title>彭剑锋</title>
+      <link>http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E5%BD%AD%E5%89%91%E9%94%8B/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>苏逸杰</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/avatar_hu3a3456eae48e6b27a7a06e01a4514553_17501_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/avatar_hucde03c8dda263e53992a0ab83cd188b7_1741163_270x270_fill_q75_lanczos_center.jpg</url>
       <title>苏逸杰</title>
       <link>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/</link>
     </image>
+    
+    <item>
+      <title>苏逸杰</title>
+      <link>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E8%8B%8F%E9%80%B8%E6%9D%B0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

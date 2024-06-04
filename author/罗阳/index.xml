@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>罗阳</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/avatar_huf195f00bac53519af7843261e65c218e_47937_270x270_fill_q75_lanczos_center.jpg</url>
       <title>罗阳</title>
       <link>https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/</link>
     </image>
+    
+    <item>
+      <title>罗阳</title>
+      <link>https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E7%BD%97%E9%98%B3/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

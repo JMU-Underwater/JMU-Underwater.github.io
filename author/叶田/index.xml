@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>叶田</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/avatar_hud3fc2e8243ac518d0b64e9939b7549c3_645729_270x270_fill_q75_lanczos_center.jpg</url>
       <title>叶田</title>
       <link>https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/</link>
     </image>
+    
+    <item>
+      <title>叶田</title>
+      <link>https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E5%8F%B6%E7%94%B0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

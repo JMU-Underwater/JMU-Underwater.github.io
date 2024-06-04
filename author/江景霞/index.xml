@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江景霞 | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/</link>
+      <atom:link href="https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>江景霞</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/avatar_huce4825b6b330d715799844e1df5474b0_2551944_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>江景霞</title>
+      <link>https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/</link>
+    </image>
+    
+    <item>
+      <title>江景霞</title>
+      <link>https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E6%B1%9F%E6%99%AF%E9%9C%9E/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/index.xml" rel="self" type="application/rss+xml" />
     <description>林麟亮</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/avatar_hub0ca0371c86e07479f6d9546a5997a21_26734_270x270_fill_q75_lanczos_center.jpg</url>
       <title>林麟亮</title>
       <link>https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/</link>
     </image>
+    
+    <item>
+      <title>林麟亮</title>
+      <link>https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E6%9E%97%E9%BA%9F%E4%BA%AE/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

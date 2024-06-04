@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>薛诚豪</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/avatar_huc8dd876172758c362556d8267a682a8a_131135_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/avatar_hu10132a08c32eaf7505d2d4ec7c658673_2015829_270x270_fill_q75_lanczos_center.jpg</url>
       <title>薛诚豪</title>
       <link>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/</link>
     </image>
+    
+    <item>
+      <title>薛诚豪</title>
+      <link>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E8%96%9B%E8%AF%9A%E8%B1%AA/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

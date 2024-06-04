@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>黄博宏</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/avatar_hu4f7ef5298c166bf2d9de67aaa1c50a18_261972_270x270_fill_q75_lanczos_center.jpg</url>
       <title>黄博宏</title>
       <link>https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/</link>
     </image>
+    
+    <item>
+      <title>黄博宏</title>
+      <link>https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E9%BB%84%E5%8D%9A%E5%AE%8F/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

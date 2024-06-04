@@ -5,7 +5,7 @@
     <link>https://jmu-underwater.github.io/project/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/</link>
       <atom:link href="https://jmu-underwater.github.io/project/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>中国机器人大赛</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
       <title>中国机器人大赛</title>

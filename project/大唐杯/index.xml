@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“大唐杯”全国大学生移动通信5G技术大赛 | 集美大学水下智能创新实验室</title>
+    <link>https://jmu-underwater.github.io/project/%E5%A4%A7%E5%94%90%E6%9D%AF/</link>
+      <atom:link href="https://jmu-underwater.github.io/project/%E5%A4%A7%E5%94%90%E6%9D%AF/index.xml" rel="self" type="application/rss+xml" />
+    <description>“大唐杯”全国大学生移动通信5G技术大赛</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
+      <title>“大唐杯”全国大学生移动通信5G技术大赛</title>
+      <link>https://jmu-underwater.github.io/project/%E5%A4%A7%E5%94%90%E6%9D%AF/</link>
+    </image>
+    
+  </channel>
+</rss>

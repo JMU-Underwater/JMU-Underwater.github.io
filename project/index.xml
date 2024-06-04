@@ -5,7 +5,7 @@
     <link>https://jmu-underwater.github.io/project/</link>
       <atom:link href="https://jmu-underwater.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Project</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/media/icon_hu0ec2aa97898cbbac718c99b52d44b5f1_241300_512x512_fill_lanczos_center_3.png</url>
       <title>Project</title>

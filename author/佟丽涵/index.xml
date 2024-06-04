@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>佟丽涵</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/avatar_hu5e6065e43e246becc87ea267dea3709a_3166253_270x270_fill_q75_lanczos_center.jpg</url>
       <title>佟丽涵</title>
       <link>https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/</link>
     </image>
+    
+    <item>
+      <title>佟丽涵</title>
+      <link>https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E4%BD%9F%E4%B8%BD%E6%B6%B5/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

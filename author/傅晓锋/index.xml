@@ -5,12 +5,20 @@
     <link>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
       <atom:link href="https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>傅晓锋</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
       <url>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/avatar_hu03e0d2d4e3c288397cd2926b07a85def_176474_270x270_fill_q75_lanczos_center.jpg</url>
       <title>傅晓锋</title>
       <link>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
     </image>
+    
+    <item>
+      <title>傅晓锋</title>
+      <link>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jmu-underwater.github.io/author/%E5%82%85%E6%99%93%E9%94%8B/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
